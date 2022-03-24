@@ -1,5 +1,4 @@
 {
-
   "name": "testback",
   "version": "1.0.0",
   "description": "",
@@ -11,8 +10,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-
-
   "dependencies": {
     "@sequelize/core": "^7.0.0-alpha.10",
     "cors": "^2.8.5",
